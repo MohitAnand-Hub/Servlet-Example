@@ -1,0 +1,9 @@
+/target/
+.settings
+.idea
+.project
+.classpath
+dev-logback.xml
+*.log
+*.log.*
+*.iml
